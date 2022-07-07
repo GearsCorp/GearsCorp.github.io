@@ -1,24 +1,22 @@
 logo: # add logo name
 title: GearsCorp
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Gears Corp, é uma empresa pequena de jogos independentes localizada no interior de São Paulo - Brasil.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://gearscorp.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+banner-title: 'Gears Corp' # add banner title
 banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
+author-name: 'Eduardo Rabelo' # your name
+about-author: 'Developer hobista em games' # about author
+email: contato@gearscorp.com.br # your email
+phone: +55 19 9999-9999 # your pnone number
 website: http://www.gearscorp.com.br # you website
 
 # Social link
